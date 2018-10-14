@@ -1,2 +1,2 @@
 # WeatherTest
-A very simple WeatherTest
+属性观察器版本
